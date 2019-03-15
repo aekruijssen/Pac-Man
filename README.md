@@ -4,3 +4,6 @@ Pac-Man game with fully implemented AI for each ghost's distinct chase strategy.
 Gameplay:
 
 <img src="/gameplay.gif" alt="Gameplay"/>
+
+
+(framerate appears lower than it actually runs due to gif creation)
